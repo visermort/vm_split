@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-21 19:28+0300\n"
+"PO-Revision-Date: 2016-06-21 22:43+0300\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+
+#: vm_split.php:25
+msgid "Executed by "
+msgstr "Запускается с помощью"
+
+#: vm_split.php:27
+msgid "Sample using"
+msgstr "Пример применения"
+
+#: vm_split.php:34
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: vm_split.php:37
+msgid "data variable"
+msgstr "Переменная с данными"
+
+#: vm_split.php:40
+msgid "class attribute for &lt;ul&gt;, default "
+msgstr "атрибут \"class\"  для  &lt;ul&gt;, по умолчанию "
+
+#: vm_split.php:43
+msgid "class attribute for &lt;li&gt;, default "
+msgstr "атрибут \"class\" для &lt;li&gt;, по умолчанию"
+
+#: vm_split.php:46
+msgid ""
+" function to update each item; if empty, item will not be changed - function "
+"of PHP, WordPress or you function;"
+msgstr ""
+"Функция для каждого элемента списка, если пусто, то без изменения - функция "
+"PHP, WordPress или ваша "
+
+#: vm_split.php:58
+msgid "Split by pattern"
+msgstr "Разделитель строки"
+
+#: vm_split.php:64
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: vm_split.php:80
+msgid "VM split"
+msgstr "VM split"
