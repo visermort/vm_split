@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: VM_split
-Plugin URI: http://visermort.ru/
+Plugin URI: https://github.com/visermort/vm_split
 Description: Demo plugin. Splits value of field as xxx,yyyyyy,zzzzzzz to array and shows on page like list &lt;ul&gt; &lt;li&gt;xxx&lt;/li&gt;&lt;li&gt;yyyyy&lt;li&gt;&lt;li&gt;zzzzzzz&lt;li&gt; &lt;ul&gt;
 Author: visermort
 Version: 0.1
